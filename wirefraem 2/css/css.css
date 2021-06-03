@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Wirefraem{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    width: 375px;
+    height: auto;
+    
+}
+.uno{
+    width: 135px;
+    height: 135px;
+    background-color: purple;
+    border: 1px solid black;
+    border-radius: 80px;
+    margin:auto;
+    margin-top: 30px;
+}
+.dos{
+    width: 265px;
+    height: 32px;
+    background-color: purple;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin:auto;
+    margin-top: 45px;
+    
+        
+}
+.tres{
+    
+    width: 150px;
+    height: 15px;
+    background-color: royalblue;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin:auto;
+    margin-top: 45px;
+    
+}
+.cuatro{
+    
+    width: 145px;
+    height: 12px;
+    background-color: royalblue;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin:auto;
+    margin-top: 15px;
+    
+}
+
+.cinco{
+    width: 245px;
+    height: 135px;
+    background-color: orangered;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin:auto;
+    margin-top: 45px;
+    
+}
+.seis{
+    width: 300px;
+    height: 35px;
+    background-color: royalblue;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin:auto;
+    margin-top: 45px;
+    
+        
+}

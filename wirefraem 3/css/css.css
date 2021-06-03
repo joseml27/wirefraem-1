@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Wirefraem{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 160px;
+    height: auto;
+    
+}
+.uno{
+    width: 335px;
+    height: 600px;
+    background-color: aqua;
+    border: 1px solid aqua;
+    border-radius: 17px;
+    margin-top: 10px;
+   
+    
+}
+.dos {
+    width: 60px;
+    height: 60px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 30px;
+    margin:auto;
+    margin-top: -550px;
+    
+}
+.tres{
+    width: 280px;
+    height: 50px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 15px;
+    margin: 27px;
+    margin-top: 400;
+}

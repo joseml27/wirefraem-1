@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Wireframe{
+    display: flex;
+    flex-direction: column;
+    padding: 60px;
+    width: 510px;
+    height: auto;
+    
+}
+.uno1{
+    width: 115px;
+    height: 115px;
+    background-color: aqua;
+    border: 1px solid aqua;
+    border-radius: 20px;
+    margin-right: 60px;
+    
+}
+.dos2{
+    width: 115px;
+    height: 115px;
+    background-color: aqua;
+    border: 1px solid aqua;
+    border-radius: 20px;
+    margin:auto;
+    margin-top: -115px;
+    
+}
+.tres3{
+    width: 115px;
+    height: 115px;
+    background-color: aqua;
+    border: 1px solid aqua;
+    border-radius: 20px;
+    margin-top: 45px;
+    
+}
+.cuatro4{
+    width: 115px;
+    height: 115px;
+    background-color: #191970;
+    border: 1px solid #191970;
+    border-radius: 20px;
+    margin:auto;
+    margin-top: -115px;
+    
+}
+.cinco5{
+    width: 115px;
+    height: 115px;
+    background-color: #191970;
+    border: 1px solid #191970;
+    border-radius: 20px;
+    margin-top: 45px;
+    
+}
+.seis6{
+    width: 115px;
+    height: 115px;
+    background-color: aqua;
+    border: 1px solid aqua;
+    border-radius: 20px;
+    margin:auto;
+    margin-top: -115px;
+    
+}
+.siete7{
+    width: 115px;
+    height: 115px;
+    background-color: aqua;
+    border: 1px solid aqua;
+    border-radius: 20px;
+    margin-top: 45px;
+    
+}
+.ocho8{
+    width: 115px;
+    height: 115px;
+    background-color: #191970;
+    border: 1px solid #191970;
+    border-radius: 20px;
+    margin:auto;
+    margin-top: -115px;
+    
+}
