@@ -3,75 +3,78 @@
     padding: 0;
     box-sizing: border-box;
 }
+html {
+    tamaño de fuente :  62,5 % ;
+}
 .Wirefraem{
     display: flex;
     flex-direction: column;
-    padding: 30px;
-    width: 375px;
+    padding: 3rem;
+    width: 37rem;
     height: auto;
     
 }
 .uno{
-    width: 135px;
-    height: 135px;
+    width: 13rem;
+    height: 13rem;
     background-color: purple;
     border: 1px solid black;
     border-radius: 80px;
     margin:auto;
-    margin-top: 30px;
+    margin-top: 3rem;
 }
 .dos{
-    width: 265px;
-    height: 32px;
+    width: 26rem;
+    height: 3rem;
     background-color: purple;
     border: 1px solid black;
-    border-radius: 20px;
+    border-radius: 2opx;
     margin:auto;
-    margin-top: 45px;
+    margin-top: 4rem;
     
         
 }
 .tres{
     
-    width: 150px;
-    height: 15px;
+    width: 15rem;
+    height: 1rem;
     background-color: royalblue;
     border: 1px solid black;
     border-radius: 20px;
     margin:auto;
-    margin-top: 45px;
+    margin-top: 4rem;
     
 }
 .cuatro{
     
-    width: 145px;
-    height: 12px;
+    width: 14rem;
+    height: 1rem;
     background-color: royalblue;
     border: 1px solid black;
     border-radius: 20px;
     margin:auto;
-    margin-top: 15px;
+    margin-top: 1rem;
     
 }
 
 .cinco{
-    width: 245px;
-    height: 135px;
+    width: 24rem;
+    height: 13rem;
     background-color: orangered;
     border: 1px solid black;
     border-radius: 20px;
     margin:auto;
-    margin-top: 45px;
+    margin-top: 4rem;
     
 }
 .seis{
-    width: 300px;
-    height: 35px;
+    width: 30rem;
+    height: 3.5rem;
     background-color: royalblue;
     border: 1px solid black;
     border-radius: 10px;
     margin:auto;
-    margin-top: 45px;
+    margin-top: 4.5rem;
     
         
 }
