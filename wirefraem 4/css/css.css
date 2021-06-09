@@ -3,87 +3,90 @@
     padding: 0;
     box-sizing: border-box;
 }
+html {
+    tamaño de fuente :  62,5 % ;
+}
 .Wireframe{
     display: flex;
     flex-direction: column;
-    padding: 60px;
-    width: 510px;
+    padding: 6rem;
+    width: 51rem;
     height: auto;
     
 }
 .uno1{
-    width: 115px;
-    height: 115px;
+    width: 11rem;
+    height: 11rem;
     background-color: aqua;
     border: 1px solid aqua;
     border-radius: 20px;
-    margin-right: 60px;
+    margin-right: 6rem;
     
 }
 .dos2{
-    width: 115px;
-    height: 115px;
+    width: 11rem;
+    height: 11rem;
     background-color: aqua;
     border: 1px solid aqua;
     border-radius: 20px;
     margin:auto;
-    margin-top: -115px;
+    margin-top: -11rem;
     
 }
 .tres3{
-    width: 115px;
-    height: 115px;
+    width: 11rem;
+    height: 11rem;
     background-color: aqua;
     border: 1px solid aqua;
     border-radius: 20px;
-    margin-top: 45px;
+    margin-top: 4rem;
     
 }
 .cuatro4{
-    width: 115px;
-    height: 115px;
+    width: 11rem;
+    height: 11rem;
     background-color: #191970;
     border: 1px solid #191970;
     border-radius: 20px;
     margin:auto;
-    margin-top: -115px;
+    margin-top: -11remm;
     
 }
 .cinco5{
-    width: 115px;
-    height: 115px;
+    width: 11rem;
+    height: 11rem;
     background-color: #191970;
     border: 1px solid #191970;
     border-radius: 20px;
-    margin-top: 45px;
+    margin-top: 4rem;
     
 }
 .seis6{
-    width: 115px;
-    height: 115px;
+    width: 11rem;
+    height: 11rem;
     background-color: aqua;
     border: 1px solid aqua;
     border-radius: 20px;
     margin:auto;
-    margin-top: -115px;
+    margin-top: -11rem;
     
 }
 .siete7{
-    width: 115px;
-    height: 115px;
+    width: 11rem;
+    height: 11rem;
     background-color: aqua;
     border: 1px solid aqua;
     border-radius: 20px;
-    margin-top: 45px;
+    margin-top: 4rem;
     
 }
 .ocho8{
-    width: 115px;
-    height: 115px;
+    width: 11rem;
+    height: 11rem;
     background-color: #191970;
     border: 1px solid #191970;
     border-radius: 20px;
     margin:auto;
-    margin-top: -115px;
+    margin-top: -11rem;
     
 }
