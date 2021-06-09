@@ -3,40 +3,45 @@
     padding: 0;
     box-sizing: border-box;
 }
+html {
+    tamaño de fuente :  62,5 % ;
+}
+
+
 .Wirefraem{
     display: flex;
     flex-direction: column;
-    padding: 20px;
-    width: 160px;
+    padding: 2rem;
+    width: 16rem;
     height: auto;
     
 }
 .uno{
-    width: 335px;
-    height: 600px;
+    width: 33rem;
+    height: 60rem;
     background-color: aqua;
     border: 1px solid aqua;
-    border-radius: 17px;
-    margin-top: 10px;
+    border-radius: 1.7rem;
+    margin-top: 1rem;
    
     
 }
 .dos {
-    width: 60px;
-    height: 60px;
+    width: 6rem;
+    height: 6rem;
     background-color: white;
     border: 1px solid white;
     border-radius: 30px;
     margin:auto;
-    margin-top: -550px;
+    margin-top: -55rem;
     
 }
 .tres{
-    width: 280px;
-    height: 50px;
+    width: 28rem;
+    height: 5rem;
     background-color: white;
     border: 1px solid white;
     border-radius: 15px;
-    margin: 27px;
+    margin: 2.7rem;
     margin-top: 400;
 }
